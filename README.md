@@ -1,3 +1,4 @@
+DRUFFIN Léa
 # Prédiction et Analyse de Données avec Machine Learning et Deep Learning
 
 ## 📖 Description
